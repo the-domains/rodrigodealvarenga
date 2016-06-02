@@ -1,6 +1,6 @@
 name: rodrigodealvarenga
 favicon: null
-layout_spectrum: 0.6290843938477337
+layout_spectrum: 0.64064
 typography_spectrum: 0.4176860172301531
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#fcfcf9'
+    - '#050505'
+    - '#b56d18'
+    - '#eec49a'
+    - '#384041'
   brandStrength: 0.9224291583523154
   lightness: 0.42532858857885003
   saturation: 0.836241363780573
