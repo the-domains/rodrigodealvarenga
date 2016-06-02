@@ -4,7 +4,7 @@
         <description><![CDATA[Rodrigo de Alvarenga]]></description>
         <link>https://thegrid.ai/rodrigodealvarenga/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 20:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 21:02:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rodrigodealvarenga/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Foro Xcala 2016]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rodrigodealvarenga/foro-xcala-2016/index.html</link>
             <guid isPermaLink="false">8658e6cf-1ada-4a39-a071-3a08b3211f3a</guid>
             <pubDate>Thu, 02 Jun 2016 20:52:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50f82c4d-f1aa-4375-98f3-dcae88594b98.png">]]></description>
+            <link>https://thegrid.ai/rodrigodealvarenga/7453de61-2488-4839-bb54-05d4b6dc38a8/index.html</link>
+            <guid isPermaLink="false">7453de61-2488-4839-bb54-05d4b6dc38a8</guid>
+            <pubDate>Thu, 02 Jun 2016 21:02:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
