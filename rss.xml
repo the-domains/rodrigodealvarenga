@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[rodrigodealvarenga]]></title>
+        <description><![CDATA[rodrigodealvarenga]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 02 Jun 2016 19:19:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Foro Xcala 2016]]></title>
+            <description><![CDATA[<p>Since yesterday I've been participating at Foro Xcala 2016, an event organized by Xcala, IEEM & FOMIN, focused on the development of Angel Investor networks throughout LATAM & Caribe. During both days we've been watching different lecturers, fire-side-chats and discussions focused on how to develop the angel investment activity throughout the region, pitches and meeting people representing such networks of investors from many different countries. Excellent networking, exchange of ideas and investment, congrats to Xcala & IEEM & FOMIN team members for an amazing event!</p>]]></description>
+            <link>undefinedforo-xcala-2016/index.html</link>
+            <guid isPermaLink="false">8658e6cf-1ada-4a39-a071-3a08b3211f3a</guid>
+            <pubDate>Thu, 02 Jun 2016 19:19:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
